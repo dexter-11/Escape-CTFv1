@@ -1,9 +1,11 @@
-# Escape-CTFv1
+# Escape-CTFv1 PwnBox
 My first vulnerable machine made for the practical examination of Konnexions 2020.  
 Based on the [World of Walkers](https://www.youtube.com/playlist?app=desktop&list=PLYT4vq6pQVSvfGdP3MdKZegD8Ub_0pqPS) by [Alan Walker](https://alanwalker.com/)
 
 ### [Machine Link](https://drive.google.com/file/d/1V6oP3fc5sJ1jIBWwci8LZhVmyGR5q8dm/view?usp=sharing)
 
+## About the Machine
+A combnation of Web Exploitation and Pwn challenges in CTFs. Beginning with discovering known web vulnerabilites and exploiting them to get system access, then bypassing security mechanisms inside of systems. to gain control of a system and get root.  
 There are **8 Flags** worth a total of 100 points.  
 Flag pattern is: `FLAGS${some_text}$-Xpts`  
 Level - **Beginner (Very Easy)**  
