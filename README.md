@@ -15,7 +15,7 @@ Based on the [World of Walkers](https://www.youtube.com/playlist?app=desktop&lis
 - MySQL
 - 
 
-## Vulnerabilites
+## VULNERABILITIES
 ### > SQL Injection
 
 ## Setup the VM
