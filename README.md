@@ -4,6 +4,10 @@ Based on the [World of Walkers](https://www.youtube.com/playlist?app=desktop&lis
 
 ### [Machine Link](https://drive.google.com/file/d/1V6oP3fc5sJ1jIBWwci8LZhVmyGR5q8dm/view?usp=sharing)
 
+There are **8 Flags** worth a total of 100 points.  
+Flag pattern is: `FLAGS${some_text}$-Xpts`  
+Level - **Beginner (Very Easy)**  
+
 ## Hardware Requirements (Recommended)
 - RAM: 512 MB
 - VRAM - 16+ MB
