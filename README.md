@@ -6,6 +6,7 @@ Based on the [World of Walkers](https://www.youtube.com/playlist?app=desktop&lis
 
 ## About the Machine
 A combnation of Web Exploitation and Pwn challenges in CTFs. Beginning with discovering known web vulnerabilites and exploiting them to get system access, then bypassing security mechanisms inside of systems. to gain control of a system and get root.  
+  
 There are **8 Flags** worth a total of 100 points.  
 Flag pattern is: `FLAGS${some_text}$-Xpts`  
 Level - **Beginner (Very Easy)**  
